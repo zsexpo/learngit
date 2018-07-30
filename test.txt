@@ -1,9 +1,3 @@
-11,xiaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,20
-11,xiaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,20
-11,xiaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,20
-11,xiaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,20
-11,xiaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,20
-12,wangwu,play-guangjie-tv,beijing:haidian-hebei:hb-tianjin:tj,m,20
 13,xaiaohxxong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,w,20
 14,xeiaohaaong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,w,18
 15,xsisaaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,19
