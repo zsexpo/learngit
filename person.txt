@@ -1,0 +1,5 @@
+1,xiaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,20
+2,wangwu,play-guangjie-tv,beijing:haidian-hebei:hb-tianjin:tj,m,20
+3,xaiaohxxong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,w,20
+4,xeiaohaaong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,w,18
+5,xsisaaohong,look-read-study,beijing:chaoyang-shanghai:pudong-guangzhou:xinqu,m,19

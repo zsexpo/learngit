@@ -1,0 +1,6 @@
+1,name1,11,m
+2,name2,22,w
+3,name3,33,m
+4,name4,12,w
+5,name5,12,w
+6,name6,11,m
